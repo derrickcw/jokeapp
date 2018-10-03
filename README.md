@@ -1,2 +1,2 @@
-# jokeapp
-Joke Application using spring framework
+# Spring Boot Jokes Application
+This Spring Boot web application displays a random Chuck Norris Joke on the index.
